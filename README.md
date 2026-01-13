@@ -31,9 +31,3 @@ O layout foi pensado para transmitir sofisticação, com uma paleta de cores mar
 - Footer informativo  
 - Animações e efeitos visuais sutis  
 
----
-
-## 🚀 Acesse meu projeto
-
-https://sabor-vermelho-restaurante.netlify.app
-
