@@ -25,7 +25,6 @@ O layout foi pensado para transmitir sofisticação, com uma paleta de cores mar
 
 ## 🎨 Funcionalidades
 
-- Layout responsivo  
 - Design elegante com paleta personalizada  
 - Seções organizadas (Home, Cardápio, Sobre, Contato)  
 - Footer informativo  
